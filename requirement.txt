@@ -1,3 +1,14 @@
- txtai
- streamlit
- PyPDF2
+langchain
+sentence_transformers
+torch
+sentencepiece
+transformers
+accelerate
+chromadb
+pypdf 
+tiktoken
+streamlit
+fastapi
+uvicorn
+python-multipart
+aiofiles
