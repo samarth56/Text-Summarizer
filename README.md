@@ -16,5 +16,5 @@ Follow these steps to set up your environment and get the app running:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-summarization-app.git
+https://github.com/samarth56/Text-Summarizer.git
 cd pdf-summarization-app
